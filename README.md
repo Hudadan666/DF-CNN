@@ -27,7 +27,8 @@ This code is based on RCF. Thanks to the contributors of RCF.
 >  pages={1939--1946},  
 >  year={2019},  
 >  publisher={IEEE}  
->}
+>}  
+
 The evaluation way has referred to HED. Thanks to the contributors of HED.  
 >@inproceedings{xie2015holistically,  
 >  title={Holistically-nested edge detection},  
